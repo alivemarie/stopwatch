@@ -1,4 +1,3 @@
-import React from "react";
 import "./index.css";
 import {interval, fromEvent} from "rxjs";
 import { buffer, debounceTime, map, filter } from "rxjs/operators";
