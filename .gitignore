@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# prod
+/build
+
 .idea
 
 # misc
